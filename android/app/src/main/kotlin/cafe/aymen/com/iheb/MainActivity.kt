@@ -1,0 +1,6 @@
+package cafe.aymen.com.iheb
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
