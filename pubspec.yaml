@@ -37,6 +37,11 @@ dependencies:
   cupertino_icons: ^1.0.2
   lottie: ^2.2.0
   flutter_barcode_scanner: ^2.0.0
+  firebase_core: ^2.4.1
+  firebase_storage: ^11.0.10
+  cloud_firestore: ^4.4.1
+  collection: ^1.15.0
+  google_fonts: ^4.0.3
 
 dev_dependencies:
   flutter_test:
